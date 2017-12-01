@@ -4,7 +4,7 @@
         "type": "text/html"
     },
     "/styles.css": {
-        "url": "../htdocs/asset/css/styles.css",
+        "url": "../htdocs/assets/css/styles.css",
         "type": "text/css"
     },
     "/sokoban.js": {
